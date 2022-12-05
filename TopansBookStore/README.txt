@@ -76,3 +76,14 @@ you need to edit three pages one CategoryControllers.cs to add the delete API fo
 - commit the whole code after making this changes and save the code for next part...
 10:08pm - rebuild the application and run the project
 - End of 2nd part...
+
+12-5-2022
+12:31 am added the product list to home page  in the war producyt in history
+12:35 returning list of products to index view as home page in public home controller
+12:40 new prices for product category product price label.
+12:45 prices for new product in list add migration builder
+12:47 product upsert in project function name width producted override void down in the list.
+12:50 restorning the product list to the index view as the home page.
+12:52 fixed the project name of the history.
+12;55 linked the product index view to the navbar of the project.
+12:58 the index view for products in the project create product in name width 
